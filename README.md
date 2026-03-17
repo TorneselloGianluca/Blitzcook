@@ -38,5 +38,12 @@ The High-Fidelity prototype was validated through rigorous usability testing, ac
 * Pantani Pietro
 * Tornesello Gianluca
 
+
+![BlitzCook Interface](./assets/Screenshot 2026-03-17 alle 16.53.06.png)
+![BlitzCook Interface](./assets/screenshot.png)
+![BlitzCook Interface](./assets/screenshot.png)
+
+
+
 ---
 *Developed for the Human-Computer Interaction Project - 2026*.
