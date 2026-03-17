@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zucchini
+* source:	https://sketchfab.com/3d-models/zucchini-c1138c40875e405abce393dd9ecf70a8
+* author:	Bsmercantile5 (https://sketchfab.com/bsmercantile5)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zucchini" (https://sketchfab.com/3d-models/zucchini-c1138c40875e405abce393dd9ecf70a8) by Bsmercantile5 (https://sketchfab.com/bsmercantile5) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
