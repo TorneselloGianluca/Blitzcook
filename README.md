@@ -39,9 +39,9 @@ The High-Fidelity prototype was validated through rigorous usability testing, ac
 * Tornesello Gianluca
 
 
-![BlitzCook Interface](./assets/Screenshot 2026-03-17 alle 16.53.06.png)
-![BlitzCook Interface](./assets/screenshot.png)
-![BlitzCook Interface](./assets/screenshot.png)
+![BlitzCook Interface](./assets/foto3.png)
+![BlitzCook Interface](./assets/foto1.png)
+![BlitzCook Interface](./assets/foto2.png)
 
 
 
